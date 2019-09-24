@@ -3,61 +3,61 @@
 <setlist>
   <heading>Set List</heading>
   <song>
-    <title>Cyanide</title>
+    <song_title>Cyanide</song_title>
     <artist>Daniel Caesar</artist> 
     <genre>RB</genre> 
     <year>2019</year>
    </song>
    <song>
-    <title>Heaven Falls / Fall on me</title>
+    <song_title>Heaven Falls / Fall on me</song_title>
     <artist>Surfaces</artist> 
     <genre>Pop</genre> 
     <year>2018</year>
    </song>
    <song>
-    <title>Ivy</title>
+    <song_title>Ivy</song_title>
     <artist>Frank Ocean</artist> 
     <genre>RB</genre> 
     <year>2016</year>
    </song>
    <song>
-    <title>Gone Away</title>
+    <song_title>Gone Away</song_title>
     <artist>H.E.R.</artist> 
     <genre>RB</genre> 
     <year>2017</year>
    </song>
    <song>
-    <title>Let's Fall in Love for the Night</title>
+    <song_title>Let's Fall in Love for the Night</song_title>
     <artist>FINNEAS</artist> 
     <genre>Pop</genre> 
     <year>2018</year>
    </song>
    <song>
-    <title>Tout Oublier</title>
+    <song_title>Tout Oublier</song_title>
     <artist>Angele</artist> 
     <genre>Pop</genre> 
     <year>2018</year>
    </song>
    <song>
-    <title>Baby Boy</title>
+    <song_title>Baby Boy</song_title>
     <artist>Kevin Abstract</artist> 
     <genre>Hip Hop</genre> 
     <year>2019</year>
    </song>
    <song>
-    <title>Summertime Magic</title>
+    <song_title>Summertime Magic</song_title>
     <artist>Childish Gambino</artist> 
     <genre>RB</genre> 
     <year>2018</year>
    </song>
    <song>
-    <title>Goodie Bag</title>
+    <song_title>Goodie Bag</song_title>
     <artist>Still Woozy</artist> 
     <genre>Indie</genre> 
     <year>2017</year>
    </song>
    <song>
-    <title>Entropy</title>
+    <song_title>Entropy</song_title>
     <artist>Daniel Caesar</artist> 
     <genre>RB</genre> 
     <year>2019</year>
