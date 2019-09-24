@@ -1,11 +1,15 @@
+setlist {
+  width: 100%
+  background-color: #orange;
+}
 title {
   font-family: Avenir Next;
   text-align: left;
   font-size: 30px;
-  color: #000;
+  color: #fff;
 }
 artist, genre, year {
   text-align: center;
   font-family: Georgia;
-  color: #ff0a23;
+  color: #fff;
 }
