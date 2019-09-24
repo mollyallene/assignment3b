@@ -1,0 +1,21 @@
+title {
+  font-family: Avenir Next;
+  text-align: left;
+  font-size: 30px;
+  color: #000;
+}
+artist {
+  text-align: center;
+  font-family: Georgia;
+  color: #ff0a23;
+}
+genre {
+  text-align: center;
+  font-family: Georgia;
+  color: #5c0aff;
+}
+year {
+  text-align: center;
+  font-family: Georgia;
+  color: #5c0aff;
+}
