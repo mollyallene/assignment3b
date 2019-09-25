@@ -4,12 +4,9 @@ setlist {
   background-color: #5826bd;
 }
 heading {
-  font-family: Avenir Next;
-  text-align: center; 
+  font-family: Avenir Next; 
   font-size: 50px;
-}
-song {
-  text-align: left;
+  background-color: ##bce5e8;
 }
 song_title {
   font-family: Avenir Next;
@@ -18,4 +15,5 @@ song_title {
 artist, genre, year {
   font-family: Georgia;
   font-size: 20px;
+  display: block;
 }
